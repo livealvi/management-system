@@ -46,7 +46,7 @@ error_reporting(0);
     </div>
     <div class="container">
         <div class="d-flex justify-content-center">
-                <div class="form" style="width: 350px;">
+                <div class="form" style="width: 350px">
                     <form action="index.php" method="post" class="login-form">
                         <div class="form-group">
                             <label for="username">Username</label>
