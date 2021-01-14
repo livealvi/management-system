@@ -32,7 +32,7 @@ include "connection.php";
                     <a class="nav-item nav-link" href="addcon.php">Add Consumer</a>
                     <a class="nav-item nav-link" href="adddon.php">Add Donor</a>
                     <a class="nav-item nav-link" href="allrev.php">All Review</a> 
-                    <a class="nav-item nav-link" href="logout.php">All Review</a> 
+                    <a class="nav-item nav-link" href="logout.php">Logout</a> 
                 </div>
             </div>
         </div>
